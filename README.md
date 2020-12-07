@@ -11,12 +11,12 @@
 1. Google Colaboratory 설명
 2. Pandas와 한국어 형태소 분석기를 이용한 데이터 전처리
 3. Scikit-learn 기반의 ML(Machine learning) 분석
-  scikit-learn에서 제공하는 데이터 전처리 및 알고리즘 사용 방법
-  Pipeline 사용 방법
-  모델 평가 및 파라미터 최적화
-  Voting 방법
+ - scikit-learn에서 제공하는 데이터 전처리 및 알고리즘 사용 방법
+ - Pipeline 사용 방법
+ - 모델 평가 및 파라미터 최적화
+ - Voting 방법
 4. Tensorflow 기반의 DL(Deep learning) 분석
-  사전 정의된 네트워크 사용
-  CNN / RNN
-  불균형 데이터 처리 방법
+ - 사전 정의된 네트워크 사용
+ - CNN / RNN
+ - 불균형 데이터 처리 방법
 5. 실습을 통한 내용 복습
